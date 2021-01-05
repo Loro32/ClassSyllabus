@@ -1,0 +1,2102 @@
+    1  sudo jamf recon
+    2  clear
+    3  sudo jamf policy\nsudo jamf policy
+    4  pwd
+    5  git
+    6  devtools
+    7  git --version
+    8  git
+    9  git --version
+   10  pwd
+   11  cd ~/.ssh/
+   12  git
+   13  git --version
+   14  git config --list
+   15  git config --list --show-origin
+   16  git config --global --list
+   17  git config --edit --global
+   18  git config --l
+   19  git config -l
+   20  git config -l --global
+   21  sudo git config --list --system
+   22  git config --list --local
+   23  git config --list --global
+   24  git --version
+   25  clear
+   26  git config --local --list
+   27  git config --global --list
+   28  git config --system --list
+   29  clear
+   30  ll
+   31  clear
+   32  ls
+   33  cd Documents
+   34  ls
+   35  clear
+   36  node
+   37  node -v
+   38  ls
+   39  cd Documents
+   40  ls
+   41  md Nextiva
+   42  cd NEXTIVA
+   43  ll
+   44  ls
+   45  clear
+   46  ls
+   47  md Env
+   48  cd e
+   49  ls
+   50  md Env
+   51  mdir Envs
+   52  cd EXON-O
+   53  cd ..
+   54  cd NEXTIVA
+   55  ls
+   56  mdir Envs
+   57  mkdir Envs
+   58  cd Envs
+   59  ls
+   60  clear
+   61  ls
+   62  mkdir Dev
+   63  cd Dev
+   64  ls
+   65  clear
+   66  ll
+   67  clear
+   68  ls
+   69  clear
+   70  cat ~/.bash_profile
+   71  clear
+   72  cd ~
+   73  vi .bash_profile
+   74  vi .bash_profile
+   75  exit
+   76  ls
+   77  cat .bash_profile
+   78  ls
+   79  restart terminal
+   80  vi .bash_profile
+   81  exit
+   82  ls
+   83  ls .
+   84  lear
+   85  clear
+   86  ls
+   87  mv .bash_profile .bash_profile
+   88  vi .bash_profile
+   89  ls
+   90  vi ~/.zshrc
+   91  ls
+   92  clear
+   93  echo $SHELL
+   94  cat ~/.zshrc
+   95  vi .zprofile
+   96  source .zprofile
+   97  clear
+   98  ll
+   99  ls
+  100  clear
+  101  ls
+  102  source ~/.git-promt.sh
+  103  source ~/.git-prompt.sh
+  104  vi .zprofile
+  105  source .zprofile
+  106  ls
+  107  clear
+  108  ls
+  109  vi .zprofile
+  110  source .zprofile
+  111  vi .zprofile
+  112  source .zprofile
+  113  vi .zprofile
+  114  source .zprofile
+  115  zsh --version
+  116  ls
+  117  rm .zprofile
+  118  ls
+  119  clear
+  120  ll
+  121  source .zshprofile
+  122  vi .zprofile
+  123  source .zprofile
+  124  ls
+  125  clear
+  126  ls
+  127  vi .zprofile
+  128  ls
+  129  source .zprofile
+  130  clear
+  131  sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  132  sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  133  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  134  sudo apt-get install fonts-powerline
+  135  git clone https://github.com/powerline/fonts.git --depth=1
+  136  cd fonts
+  137  ./install.sh
+  138  clear
+  139  ls
+  140  clear
+  141  ls
+  142  cd fonts
+  143  ls
+  144  clear
+  145  ls -lah
+  146  pwd
+  147  cd ..
+  148  ls
+  149  vi ~/.zshrc
+  150  ls
+  151  clear
+  152  ls
+  153  cd fonts
+  154  ls -lah
+  155  clear
+  156  cd ..
+  157  ll
+  158  clear
+  159  ll
+  160  pwd
+  161  cd M
+  162  cd Movies
+  163  ll
+  164  clear
+  165  cd ..
+  166  vi ~/.zshrc
+  167  exit
+  168  ls
+  169  cd fonts
+  170  ls
+  171  vi ~/.zshrc
+  172  ls
+  173  cd fonts
+  174  clear
+  175  ls -lh
+  176  vi ~/.zshrc
+  177  ls
+  178  cd fonts
+  179  ls
+  180  ls -lah
+  181  ls
+  182  cd fonts
+  183  vi ~/.zshrc
+  184  cd fonts
+  185  clear
+  186  pwd
+  187  cd ~
+  188  ll
+  189  cat .zprofile
+  190  cat .zshrc
+  191  vi .zshrc
+  192  py powerline.reload()\n\npowerline.reload()\nexit
+  193  vi .zshrc
+  194  ls
+  195  clear
+  196  ls
+  197  cd ~
+  198  ls
+  199  cd fonts
+  200  ls
+  201  exit
+  202  ls
+  203  cd font
+  204  cd fonts
+  205  ls
+  206  clear
+  207  cd fonts
+  208  ls
+  209  pwd
+  210  cd ..
+  211  clear
+  212  ls
+  213  cd Documents
+  214  ls
+  215  cd NEXTIVA
+  216  ls
+  217  cd Envs
+  218  ls
+  219  cd Dev
+  220  ls
+  221  git
+  222  ls
+  223  clear
+  224  ls
+  225  config git
+  226  clear
+  227  list
+  228  clear
+  229  ls
+  230  git config --list --global
+  231  clear
+  232  list
+  233  git config --list --global
+  234  exit
+  235  vi ~/.zshrc
+  236  ls
+  237  cd Documents
+  238  ls
+  239  cd NEXTIVA
+  240  ls
+  241  cd Envs
+  242  echo PATH
+  243  echo $PATH
+  244  vi ~/.zshrc
+  245  ls
+  246  exit
+  247  vi ~/.zshrc
+  248  exit
+  249  ls
+  250  vi ~/.zshrc
+  251  exit
+  252  vi ~/.zshrc
+  253  vi .zshrc
+  254  ls
+  255  echo $PATH
+  256  export PATH=/usr/local/bin
+  257  echo $PATH
+  258  ls
+  259  cd ..
+  260  wc
+  261  ls
+  262  vi
+  263  exit
+  264  vi ~/.zshrc
+  265  cd /Users/sergio.sanchez.q/
+  266  cd /Users
+  267  ls
+  268  sh
+  269  cd sergio.sanchez.q
+  270  ll
+  271  ls
+  272  clear
+  273  vi .zshrc
+  274  export PATH=/opt/local/bin:/opt/local/sbin
+  275  exit
+  276  vi ~/.zshrc
+  277  source
+  278  exit
+  279  echo $PATH
+  280  exit
+  281  ls
+  282  cd fonts
+  283  ls
+  284  git config --list --global
+  285  git config --global user.name "Sergio Sanchez"
+  286  git config --list
+  287  ls
+  288  cd ..
+  289  ld
+  290  ls
+  291  mkdir GitTest
+  292  mkdir Env
+  293  cd Env
+  294  git init
+  295  git status
+  296  ls -o
+  297  ls -ltr
+  298  ls
+  299  pwd
+  300  ls -a
+  301  clear
+  302  ls -a
+  303  cd ..
+  304  mv Env GitTest_Dev
+  305  ls
+  306  cd GitTest
+  307  ls
+  308  ls -a
+  309  cd ..
+  310  ls -a
+  311  clear
+  312  cd GitTest_Dev
+  313  ls -a
+  314  cd ..
+  315  ll
+  316  rm GitTest
+  317  rmdir GitTest
+  318  clear
+  319  ls
+  320  cd GitTest_Dev
+  321  ls
+  322  ls -a
+  323  cd ..
+  324  ll
+  325  rmdir GitTest_Dev
+  326  rmdir -rGitTest_Dev
+  327  rmdir -r GitTest_Dev
+  328  ls
+  329  cd GitTest_Dev
+  330  ls -a
+  331  cd ..
+  332  rmdir -r -f GitTest_Dev
+  333  rmdir -p GitTest_Dev
+  334  rmdir -r GitTest_Dev
+  335  pwd
+  336  rm -r GitTest_Dev
+  337  clear
+  338  ls
+  339  mkdir GitTest
+  340  cd GitTest
+  341  mkdir GitTest_Dev
+  342  cd GitTest_Dev
+  343  git ini
+  344  git init
+  345  git status
+  346  ls
+  347  ls -a
+  348  cd ..
+  349  ll
+  350  clear
+  351  ll
+  352  ls -ltr
+  353  ls
+  354  clear
+  355  ll
+  356  git clone git@bitbucket.org:wpgittest/rgittest.git
+  357  ssh-keygen -t ed25519 -C "sgsq23@gmail.com"
+  358  eval "$(ssh-agent -s)"
+  359  cat ~/.ssh/config
+  360  touch ~/.ssh/config
+  361  cat ~/.ssh/config
+  362  vi ~/.ssh/config
+  363  ssh-add -K ~/.ssh/id_ed25519
+  364  git clone https://loro@bitbucket.org/wpgittest/rgittest.git
+  365  cat ~/.ssh/id_ed25519.pub
+  366  ssh -T git@bitbucket.org 
+  367  git clone git@bitbucket.org:wpgittest/rgittest.git
+  368  pwd
+  369  ls
+  370  cd rgittest
+  371  ls
+  372  echo "this Is a test file " >> TestFile.txt
+  373  ls
+  374  git config status
+  375  git status
+  376  git add TestFile.txt
+  377  git status
+  378  git commit
+  379  git commit "This is the firts File"
+  380  git commit -m "This is the firts File"
+  381  git config user.name
+  382  git config user.mail
+  383  git  config --list
+  384  git config user.mail "sgsq23@gmail.com"
+  385  cat .git/config
+  386  ls
+  387  git config --status
+  388  git status
+  389  push TestFile.txt
+  390  push --all
+  391  git push --all
+  392  ls
+  393  clear
+  394  ls
+  395  cat TestFile.txt
+  396  vi TestFile.txt
+  397  ls
+  398  commit -m "second Line"
+  399  git commit -m "second Line"
+  400  git add TestFile.txt
+  401  git commit -m "second Line"
+  402  git push --all
+  403  git pull
+  404  git checkout -b Development_01
+  405  git push origin
+  406  git push --set-upstream origin Development_01
+  407  git branch -a
+  408  clear
+  409  ls
+  410  touch TestFile02.txt
+  411  ls
+  412  git status
+  413  git add TestFile02.txt
+  414  cat TestFile02.txt
+  415  echo "this file souch exist just in development" >> TestFile02.txt
+  416  ls
+  417  git status
+  418  git add TestFile02.txt
+  419  commit TestFile02.txt -m "this the 2nd File"
+  420  ls
+  421  clear
+  422  ls
+  423  cat TestFile02.txt
+  424  commit -m "Second file Just in Dev"
+  425  git commit -m "Second file Just in Dev"
+  426  git push --all
+  427  git branch -a
+  428  ls
+  429  git checkout master 
+  430  git pull
+  431  git checkout -b Development_002
+  432  git push origin Development_002
+  433  ls
+  434  echo "This File is generated just for the Branch Dev2" >> TestFile_002.txt
+  435  ls
+  436  cat TestFile_002.txt
+  437  ls
+  438  git status
+  439  git add TestFile_002.txt
+  440  commit -m "this commit belong the file 002 who is just for the Dev 2"
+  441  git commit -m "this commit belong the file 002 who is just for the Dev 2"
+  442  push --all
+  443  git push --all
+  444  ls
+  445  git merge origin/Evelopment_002
+  446  git merge Evelopment_002
+  447  git merge Development_002
+  448  ls
+  449  cd /opt/cisco/anyconnect/Umbrella/
+  450  ls
+  451  cd D
+  452  cd Documents
+  453  ls
+  454  cd NEXTIVA
+  455  ls
+  456  cd Envs
+  457  ls
+  458  clear
+  459  ls
+  460  cd Dev
+  461  ls
+  462  ls -ltr
+  463  cd ..
+  464  ls
+  465  cd ..
+  466  ls
+  467  npm version
+  468  clear
+  469  ls
+  470  pwd
+  471  mkdit TestP
+  472  mkdir TestP
+  473  git clone https://loro@bitbucket.org/mfworkspace/mfrepository.git
+  474  ls
+  475  clear
+  476  ls
+  477  cd TestP
+  478  ls
+  479  clear
+  480  ls
+  481  git clone git@bitbucket.org:wpgittest/rgittest.git
+  482  ls
+  483  cd rgittest
+  484  ls
+  485  cat TestFile.txt
+  486  touch S2File.test
+  487  ls
+  488  vi S2File.test
+  489  clear
+  490  ls
+  491  git status
+  492  git commit 
+  493  git add S2File.test
+  494  git status
+  495  git commit "this commit is for the S2 file works"
+  496  git commit -m "this commit is for the S2 file works"
+  497  git git config  -- local     -- list
+  498  git config  -- local     -- list
+  499  git config  --local     --list
+  500  git config --local user.name "Sergio Dev"
+  501  git config --local user.mail "sgsq23@gmail.com"
+  502  git config  --local     --list
+  503  pull
+  504  git pull
+  505  git push
+  506  code
+  507  shellcommand
+  508  shell command
+  509  Install 'code' command in PATH
+  510  pwd
+  511  cd Documents
+  512  ls
+  513  cd TestP
+  514  ls
+  515  cd rgittest
+  516  code
+  517  exit
+  518  node -v
+  519  npm -v
+  520  pwd
+  521  ls
+  522  cd Documents
+  523  ls
+  524  cd NEXTIVA
+  525  ls
+  526  cd Envs
+  527  ls
+  528  cd Dev
+  529  ls
+  530  git config --global user.name "sergio sanchez"
+  531  git config --global user.mail "sergio.sanchez@nextiva.com"
+  532  git clone https://sgsanchez@bitbucket.org/nextiva/crm-agent.git
+  533  ls
+  534  cd crm-agent
+  535  ll
+  536  ls
+  537  node -v
+  538  ls
+  539  npm i
+  540  npm start
+  541  ls
+  542  ls /ltr
+  543  ls -ltr
+  544  cd ..
+  545  ll
+  546  ls
+  547  git clone ssh://git@git.nextiva.xyz:7999/crm/crm.git
+  548  git clone https://sgsanchez@bitbucket.org/nextiva/crm.git
+  549  cd crm
+  550  make init
+  551  ls
+  552  make init
+  553  ls
+  554  cd ..
+  555  ll
+  556  pwd
+  557  cd crm
+  558  ls
+  559  docker-compos ps
+  560  docker-compose ps
+  561  docker-compose down
+  562  ls
+  563  cat Makefile
+  564  make build
+  565  make provision
+  566  ls
+  567  cd rabochi
+  568  ll
+  569  cd ..
+  570  l
+  571  make provision
+  572  pwd
+  573  ls
+  574  cd rabochi
+  575  ls
+  576  cd crm
+  577  ll
+  578  cd bin
+  579  kk
+  580  ll
+  581  cd ..
+  582  ll
+  583  pwd
+  584  cd ..
+  585  ll
+  586  pwd
+  587  cd ..
+  588  pwd
+  589  docker-compose down
+  590  pwd
+  591  make init
+  592  history
+  593  ls
+  594  docker-compose up
+  595  cd Documents
+  596  ls
+  597  cd NEXTIVA
+  598  ls
+  599  cd Envs
+  600  ls
+  601  cd Dev
+  602  ls
+  603  cd crm
+  604  ll
+  605  make migrate
+  606  pwd
+  607  ls
+  608  cat Makefile
+  609  pwd
+  610  make migrate
+  611  make provision
+  612  make migrate
+  613  pwd
+  614  make init
+  615  make run
+  616  cd Documents
+  617  ls
+  618  cd NEXTIVA
+  619  cd Envs
+  620  ls
+  621  cd Dev
+  622  ls
+  623  cd crm-agent
+  624  ll
+  625  npm start
+  626  /Library/Developer/CommandLineTools/usr/bin/python3 /Users/sergio.sanchez.q/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/pyvsc-run-isolated.py pip install -U pylint --user
+  627  ls
+  628  ls /ltr
+  629  clear
+  630  cd Envs
+  631  ls
+  632  cd Dev
+  633  ls
+  634  cd crm
+  635  ls
+  636  clear
+  637  ls
+  638  exit
+  639  ls
+  640  cd Envs
+  641  ls
+  642  cd Dev
+  643  cd crm
+  644  cd ..
+  645  ls
+  646  clear
+  647  ls /ltr
+  648  cd -ltr
+  649  ls -ltr
+  650  ll
+  651  clear
+  652  ll
+  653  exit
+  654  cd Documents
+  655  cd NEXTIVA
+  656  cd Envs/Dev/
+  657  ls
+  658  clear
+  659  ls /ltr
+  660  git clone https://sgsanchez@bitbucket.org/nextiva/communication-hub-ui.git
+  661  ls -ltr
+  662  cd communication-hub-ui
+  663  ls
+  664  npm run global-install
+  665  clear
+  666  ll
+  667  cat README.md
+  668  ls
+  669  clear
+  670  exit
+  671  ls
+  672  cd Documents
+  673  cd NEXTIVA
+  674  ll
+  675  cd Envs
+  676  ll
+  677  cd Dev
+  678  ls
+  679  cd crm-agent
+  680  ls
+  681  rm -f node_modules
+  682  rm -r node_modules
+  683  npm i
+  684  npm run start-dev-proxy
+  685  cd Documents
+  686  cd NEXTIVA
+  687  cd Envs
+  688  cd Dev
+  689  ls
+  690  cd crm-agent
+  691  ls
+  692  cleqar
+  693  clear
+  694  ll
+  695  cd Documents
+  696  cd NEXTIVA
+  697  cd Envs
+  698  cd Dev
+  699  ll
+  700  cd communication-hub-ui
+  701  ll
+  702  LS
+  703  ls
+  704  clear
+  705  ls
+  706  npm run install
+  707  cd packages
+  708  ll
+  709  cd ..
+  710  clear
+  711  ll
+  712  npm -v
+  713  cd packages
+  714  ll
+  715  cd Comms
+  716  ll
+  717  cd..
+  718  cd ..
+  719  ls
+  720  cd ..
+  721  ls
+  722  clear
+  723  ls
+  724  ls -r
+  725  npm -i
+  726  npm run -i
+  727  npm run install
+  728  nom run global-install
+  729  npm run global-install
+  730  npx lerna run build
+  731  npm run storybook
+  732  pwd
+  733  ll
+  734  cd packages
+  735  ll
+  736  cd ..
+  737  clear
+  738  ll
+  739  npm run storybook
+  740  pwd
+  741  cd ..
+  742  git clone https://sgsanchez@bitbucket.org/nextiva/communication-hub-ui.git
+  743  rm -r communication-hub-ui
+  744  ll
+  745  rm -f -y communication-hub-ui
+  746  rm -r -f communication-hub-ui
+  747  ll
+  748  git clone https://sgsanchez@bitbucket.org/nextiva/communication-hub-ui.git
+  749  cd communication-hub-ui
+  750  npm run install
+  751  git checkout sergio-overview
+  752  ll
+  753  npm run install
+  754  cd scripts
+  755  ll
+  756  cd ..
+  757  clear
+  758  ll
+  759  pwd
+  760  checkout master
+  761  git checkout master
+  762  ll
+  763  npm run install
+  764  cat /Users/sergio.sanchez.q/.npm/_logs/2020-12-04T19_19_30_274Z-debug.log
+  765  ll
+  766  git checkout sergio-overview
+  767  ll
+  768  npm run install
+  769  cat /Users/sergio.sanchez.q/.npm/_logs/2020-12-04T19_21_29_789Z-debug.log
+  770  npm run -i
+  771  ls
+  772  ls -ltr
+  773  ls
+  774  clear
+  775  ll
+  776  owd
+  777  cd ..
+  778  ll
+  779  cd ..
+  780  ll
+  781  clear
+  782  ll
+  783  cd Dev
+  784  ll
+  785  cd crm-agent
+  786  ll
+  787  npm start
+  788  cd Documents
+  789  ll
+  790  cd NEXTIVA
+  791  ll
+  792  cd Envs/Dev
+  793  ll
+  794  cd crm
+  795  ll
+  796  npm start
+  797  exit
+  798  cd Documents/NEXTIVA
+  799  ll
+  800  cd Envs/Dev
+  801  ll
+  802  cd crm-agent
+  803  ls
+  804  npm i
+  805  npm start
+  806  clear
+  807  ll
+  808  pwd
+  809  cd ..
+  810  cd crm
+  811  ll
+  812  npm start
+  813  history
+  814  cd rabochi
+  815  npm start
+  816  history
+  817  PWD
+  818  cd Documents
+  819  ll
+  820  cd NEXTIVA/Envs/Dev
+  821  ll
+  822  cd crm-agent
+  823  clear
+  824  ll
+  825  pwd
+  826  wpd
+  827  pwd
+  828  npm -i
+  829  clear
+  830  ll
+  831  npm run start-dev-proxy
+  832  cd Documents
+  833  cd NEXTIVA/Envs/Dev
+  834  ls
+  835  ll
+  836  pwd
+  837  ll
+  838  cd crm
+  839  ll
+  840  cd ..
+  841  ll
+  842  cd ..
+  843  ll
+  844  cd Dev
+  845  cd crm-agent
+  846  ll
+  847  clear
+  848  ll
+  849  clear
+  850  ll
+  851  clear
+  852  rm -f node_modules
+  853  rm -r node_modules
+  854  ll
+  855  npm -i
+  856  npm i
+  857  node -v
+  858  npm run start-dev-proxy
+  859  cd Documents/NEXTIVA/Envs/Dev
+  860  ll
+  861  cd crm-agent
+  862  code .
+  863  code
+  864  clear
+  865  ll
+  866  cd Envs
+  867  ll
+  868  cd D
+  869  cd Dev
+  870  ll
+  871  clear
+  872  ll
+  873  cd communication-hub-ui
+  874  ll
+  875  cat sonar-project.properties
+  876  clear
+  877  ll
+  878  cat README.md
+  879  clear
+  880  ll
+  881  exit
+  882  ls
+  883  clear
+  884  ls /ltr
+  885  ls -ltr
+  886  ls
+  887  clear
+  888  ls
+  889  pwd
+  890  git config --list
+  891  cler
+  892  clear
+  893  git config --list
+  894  git config --list --show-origin
+  895  git confi --list
+  896  git config --list
+  897  git config --list --show-prigin
+  898  git config --list --show-origin
+  899  clear
+  900  git config --list
+  901  git config --list --show-origin
+  902  quit
+  903  exit
+  904  git config user.name
+  905  git config user.mail
+  906  pwd
+  907  ls
+  908  cd GitTest
+  909  ll
+  910  mkdir Test
+  911  cd Test
+  912  touch index.html
+  913  ls
+  914  vim index.html
+  915  cd..
+  916  cd ..
+  917  clear
+  918  ll
+  919  mkdir repos
+  920  cd repos
+  921  mkdir myGitRepo
+  922  cd myGitRepo
+  923  git init
+  924  ls
+  925  ls /ltr
+  926  clear
+  927  ls -s
+  928  pwd
+  929  ls -a
+  930  touch index.html
+  931  touch style.css
+  932  clear
+  933  ll
+  934  git config --list
+  935  git congig user.name "Sergio Loro"
+  936  git config user.name "Sergio Loro"
+  937  git config user.mail "sgsq23@gmail.com"
+  938  git config --list
+  939  clear
+  940  git status
+  941  git add index.html
+  942  git status
+  943  git rm --cache index.html
+  944  git status
+  945  git add .
+  946  git status
+  947  clear
+  948  git status
+  949  git commit -m "Add Skeleton files for Web Pages"
+  950  git config --list
+  951  git config user.email "sgsq23@gmail.com"
+  952  git config --list
+  953  git -c user.email=sgsq23@gmail.com commit --amend-reset-author
+  954  git -c user.email=sgsq23@gmail.com commit  --amend -reset -author
+  955  git -c user.email=sgsq23@gmail.com commit  -amend -reset -author
+  956  git -c user.email=sgsq23@gmail.com commit   --amend --reset -author
+  957  git -c user.email=sgsq23@gmail.com commit   --amend --reset --author
+  958  git -c user.email=sgsq23@gmail.com commit   --amend --reset -author
+  959  git -c user.email=sgsq23@gmail.com commit   -amend -reset -author
+  960  clear
+  961  git -c user.email=sgsq23@gmail.com commit   -amend --reset-author
+  962  git -c user.email=sgsq23@gmail.com commit   --amend --reset-author
+  963  gti config --list
+  964  git config --list
+  965  git status
+  966  git loh
+  967  git log
+  968  clear
+  969  git log
+  970  git branch
+  971  git branch user-authentication
+  972  git branch
+  973  git checkout user-authentication
+  974  touch auth.js
+  975  git bracnh
+  976  clear
+  977  git branch
+  978  vim index.html
+  979  ll
+  980  git status
+  981  git diff index.html
+  982  clear
+  983  ll
+  984  touch MyApp.log
+  985  git saatus
+  986  git status
+  987  touch Device.log
+  988  git status
+  989  touch .gitignore
+  990  vi .gitignore
+  991  git status
+  992  git add .gitignore
+  993  git status
+  994  clear
+  995  git commit -m "add .gitignore"
+  996  git add .
+  997  git commit -m "Complete user authentication"
+  998  git status
+  999  git checkout master
+ 1000  git merge user-authentication
+ 1001  git status
+ 1002  git log
+ 1003  git tag -a v1.0.0 -m "version 1.0.0 release"
+ 1004  git tag
+ 1005  git branch DEVCSS
+ 1006  git branch
+ 1007  git checkout DEVCSS
+ 1008  git status
+ 1009  git log
+ 1010  clear
+ 1011  ll
+ 1012  vi style.css
+ 1013  git status
+ 1014  git add style.css -m "Add Comments to CSS file"
+ 1015  git add style.css
+ 1016  git status
+ 1017  git commit -m "Add Comments to CSS file"
+ 1018  git satus
+ 1019  git status
+ 1020  git log
+ 1021  git checkout master
+ 1022  ll
+ 1023  git merge DEVCSS
+ 1024  git tag -a v1.0.0 -m "version 1.0.1 release"
+ 1025  git tag -a v1.0.1 -m "version 1.0.1 release"
+ 1026  git tag
+ 1027  clear
+ 1028  ll
+ 1029  cat style.css
+ 1030  git log
+ 1031  git branch
+ 1032  cd ..
+ 1033  ll
+ 1034  clear
+ 1035  git clone https://loro@bitbucket.org/learningpaths/hellobitbucket.git
+ 1036  ll
+ 1037  pwd
+ 1038  cd hellobitbucket
+ 1039  ll
+ 1040  ls -a
+ 1041  touch HelloWorld.txt
+ 1042  vim HelloBitBucket.txt
+ 1043  git status
+ 1044  git add .
+ 1045  git status
+ 1046  git commit -m "Hello text files"
+ 1047  git config user.name "Sergio Loro"
+ 1048  git config user.email "sgsq23@gmail.com"
+ 1049  git commit --amend --reset-author
+ 1050  git log
+ 1051  git branch
+ 1052  clear
+ 1053  git push origin master
+ 1054  git pull
+ 1055  git fetch
+ 1056  git merge
+ 1057  ls
+ 1058  ssh-keygen
+ 1059  ls ~/.ssh
+ 1060  pbcopy < ~/.ssh/id_rsa.pub
+ 1061  ssh -T git@bitbucket.org
+ 1062  ll
+ 1063  ls ~/.ssh
+ 1064  rm -r ~/.ssh
+ 1065  ls ~/.ssh
+ 1066  ll
+ 1067  ssh-keygen
+ 1068  ls ~/.ssh
+ 1069  pbcopy < ~/.ssh/id_rsa.pub
+ 1070  ls ~/.ssh
+ 1071  ssh -T git@bitbucket.org
+ 1072  pwd
+ 1073  history
+ 1074  pwd
+ 1075  cd ..
+ 1076  ll
+ 1077  pwd
+ 1078  ll
+ 1079  cd myGitRepo
+ 1080  ll
+ 1081  pwd
+ 1082  ll
+ 1083  cd GitTest
+ 1084  ll
+ 1085  cd repos
+ 1086  ll
+ 1087  cd myGitRepo
+ 1088  ll
+ 1089  git status
+ 1090  git log
+ 1091  ll
+ 1092  git remote add origin https://loro@bitbucket.org/learningpaths/mygitrepo.git
+ 1093  ll
+ 1094  push
+ 1095  git push
+ 1096  ll
+ 1097  git branch
+ 1098  clear
+ 1099  ll
+ 1100  git branch
+ 1101  cd ..
+ 1102  ll
+ 1103  cd hellobitbucket
+ 1104  ll
+ 1105  git branch
+ 1106  cd ..
+ 1107  clear
+ 1108  ll
+ 1109  cd myGitRepo
+ 1110  ll
+ 1111  git log
+ 1112  ll
+ 1113  git branch
+ 1114  clear
+ 1115  ll
+ 1116  pwd
+ 1117  cd ..
+ 1118  lll
+ 1119  clear
+ 1120  ll
+ 1121  cd myGitRepo
+ 1122  ll
+ 1123  clear
+ 1124  ll
+ 1125  git remote add origin https://loro@bitbucket.org/learningpaths/mygitrepo.git
+ 1126  ll
+ 1127  git push
+ 1128  git push --set-upstream origin master
+ 1129  git pull
+ 1130  git pull master
+ 1131  git pull origin 
+ 1132  git pull origin master
+ 1133  git pull origin master --allow-unrelated-histories
+ 1134  git pull
+ 1135  commit
+ 1136  git commit
+ 1137  git merge
+ 1138  git merge remote/master
+ 1139  git status
+ 1140  git add .
+ 1141  git commit
+ 1142  git pull
+ 1143  git push
+ 1144  clear
+ 1145  ll
+ 1146  exit
+ 1147  vim
+ 1148  touch .vimrc
+ 1149  echo "syntax on" >> .vimrc
+ 1150  vim testFile.xxx
+ 1151  cat .vimrc
+ 1152  echo "set autoident" >> .vimrc
+ 1153  echo "set smartindent" >> .vimrc
+ 1154  echo "set number" >> .vimrc
+ 1155  ll
+ 1156  ls -tr
+ 1157  ls l
+ 1158  ls -tr
+ 1159  vim file.xxx
+ 1160  vi .vimrc
+ 1161  vim file.xxx
+ 1162  ll
+ 1163  mkdir .vim
+ 1164  cd .vim
+ 1165  mkdir colors
+ 1166  ll
+ 1167  pwd
+ 1168  cd colors
+ 1169  vi sublimemonokai.vim
+ 1170  ll
+ 1171  vi .vimrc
+ 1172  exit
+ 1173  vim file.xx
+ 1174  vi file.xxx
+ 1175  vi dude.html
+ 1176  pwd
+ 1177  ll
+ 1178  cd Downloads
+ 1179  ll
+ 1180  cp miramare.vim ../.vim/colors
+ 1181  cd ../.vim/colors
+ 1182  ll
+ 1183  vi
+ 1184  cd..
+ 1185  cd ..
+ 1186  ll
+ 1187  vi .vimrc
+ 1188  vi
+ 1189  clear
+ 1190  cd Downloads
+ 1191  ll
+ 1192  cd miramare-master
+ 1193  ll
+ 1194  cd colors
+ 1195  ll
+ 1196  cp miramare.vim ../../../.vim/colors
+ 1197  vi
+ 1198  vi file.xx
+ 1199  vi .vimrc
+ 1200  vim file.xx
+ 1201  clear
+ 1202  ll
+ 1203  vi ~/.zshrc
+ 1204  pwd
+ 1205  ll
+ 1206  cd GitTest
+ 1207  ll
+ 1208  cd repos
+ 1209  git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+ 1210  vi ~/.zshrc
+ 1211  l
+ 1212  ll
+ 1213  clear
+ 1214  pwd
+ 1215  ll
+ 1216  cd GitTest
+ 1217  ll
+ 1218  cd repos
+ 1219  ll
+ 1220  cd myGitRepo
+ 1221  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 1222  brew install zsh-syntax-highlighting
+ 1223  source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+ 1224  ll
+ 1225  clear
+ 1226  ll
+ 1227  exit
+ 1228  code
+ 1229  source
+ 1230  clear
+ 1231  ll
+ 1232  vi ~/.zshrc
+ 1233  exit
+ 1234  chmod 755 /usr/local/share/zsh
+ 1235  chmod 755 /usr/local/share/zsh/site-functions
+ 1236  exit
+ 1237  ll
+ 1238  clear
+ 1239  ll
+ 1240  cd GitTest
+ 1241  cd repos
+ 1242  cd myGitRepo
+ 1243  ll
+ 1244  clear
+ 1245  ll
+ 1246  cd ..
+ 1247  ll
+ 1248  cd myGitRepo
+ 1249  pwd
+ 1250  clear
+ 1251  ll
+ 1252  clear
+ 1253  ll
+ 1254  clear
+ 1255  ll
+ 1256  pwd
+ 1257  clear
+ 1258  exit
+ 1259  clear
+ 1260  ll
+ 1261  exit
+ 1262  l
+ 1263  cd GitTest
+ 1264  ll
+ 1265  cd repos
+ 1266  ll
+ 1267  clear
+ 1268  ll
+ 1269  pwd
+ 1270  cd ..
+ 1271  ll
+ 1272  pwd
+ 1273  cd ..
+ 1274  ll
+ 1275  clear
+ 1276  ll
+ 1277  cd ure
+ 1278  cd GitTest
+ 1279  ll
+ 1280  cd repos
+ 1281  ll
+ 1282  cd myGitRepo
+ 1283  ll
+ 1284  clear
+ 1285  ll
+ 1286  clear
+ 1287  ll
+ 1288  clear
+ 1289  ll
+ 1290  cd GitTest
+ 1291  cd repos
+ 1292  cd myGitRepo
+ 1293  kk
+ 1294  clear
+ 1295  ll
+ 1296  clear
+ 1297  ll
+ 1298  cd GitTest
+ 1299  cd repos
+ 1300  cd myGitRepo
+ 1301  ll
+ 1302  cler
+ 1303  clear
+ 1304  ll
+ 1305  git log
+ 1306  git status
+ 1307  clear
+ 1308  ll
+ 1309  git
+ 1310  git branch
+ 1311  git status
+ 1312  ll
+ 1313  clear
+ 1314  ll
+ 1315  exit
+ 1316  git config --global --list
+ 1317  git config --global --add merge.tool kdiff3
+ 1318  ll
+ 1319  git config --global --add mergetool.kdiff3.path /Applications/kdiff3.app/Contents/MacOS/kdiff3
+ 1320  git config --global --add mergetool.kdiff3.trustExitCode false
+ 1321  git config --global --add diff.guitool kdiff3
+ 1322  git config --global --add difftool.kdiff3.path /Applications/kdiff3.app/Contents/MacOS/kdiff3
+ 1323  git config --global --add difftool.kdiff3.trustExitCode false
+ 1324  cd
+ 1325  pwd
+ 1326  vim .gitconfig
+ 1327  cp .gitconfig .bkpFile_gitconfig_03012021
+ 1328  vim .gitconfig
+ 1329  git config --global mergetool.keepBackup false
+ 1330  clear
+ 1331  pwd
+ 1332  git --verions
+ 1333  git --version
+ 1334  clear
+ 1335  git --version
+ 1336  pwd
+ 1337  ll
+ 1338  git config --system --list
+ 1339  git config --global --list
+ 1340  git config --local --list
+ 1341  clear
+ 1342  ll
+ 1343  cd GitTest
+ 1344  ll
+ 1345  mkdir git-workspace
+ 1346  cd git-workspace
+ 1347  git config --list
+ 1348  git config user.name
+ 1349  git config global user.name "Sergio Sanchez"
+ 1350  git config --global user.name "Sergio Sanchez"
+ 1351  git config user.name
+ 1352  clear
+ 1353  git config --list
+ 1354  git config --system --list
+ 1355  cd ..
+ 1356  ll
+ 1357  cd repos
+ 1358  cd myGitRepo
+ 1359  git config --local --list
+ 1360  cd ..
+ 1361  ll
+ 1362  cd ..
+ 1363  l
+ 1364  cd git-workspace
+ 1365  clear
+ 1366  pwd
+ 1367  cd ~
+ 1368  pwd
+ 1369  ll
+ 1370  cd GitTest
+ 1371  ll
+ 1372  cd git-workspace
+ 1373  clear
+ 1374  ll
+ 1375  pwd
+ 1376  clear
+ 1377  cd ..
+ 1378  ll
+ 1379  cd GitTest_Dev
+ 1380  ll
+ 1381  exit
+ 1382  ll
+ 1383  cd GitTest
+ 1384  ll
+ 1385  cd Test
+ 1386  ll
+ 1387  cd ..
+ 1388  ll
+ 1389  cd rgittest
+ 1390  ll
+ 1391  cd ..
+ 1392  ll
+ 1393  cd repos
+ 1394  ll
+ 1395  cd ..
+ 1396  ll
+ 1397  cd ..
+ 1398  l
+ 1399  pwd
+ 1400  ll
+ 1401  cd GitTest
+ 1402  ll
+ 1403  cd git-workspace
+ 1404  ll
+ 1405  pwd
+ 1406  cd ..
+ 1407  ll
+ 1408  cd rgittest
+ 1409  ll
+ 1410  git branch
+ 1411  ll
+ 1412  git checkout master
+ 1413  ll
+ 1414  cd ..
+ 1415  ll
+ 1416  cd ..
+ 1417  ll
+ 1418  cd Documents
+ 1419  ll
+ 1420  cd TestP
+ 1421  ll
+ 1422  cd rgittest
+ 1423  ll
+ 1424  cd ..
+ 1425  ll
+ 1426  clear
+ 1427  ll
+ 1428  cd ..
+ 1429  ll
+ 1430  cd NEXTIVA
+ 1431  ll
+ 1432  clear
+ 1433  ll
+ 1434  cd Envs
+ 1435  ll
+ 1436  cd Dev
+ 1437  ll
+ 1438  clear
+ 1439  pwd
+ 1440  ll
+ 1441  cd crm-agent
+ 1442  git branch
+ 1443  cd ..
+ 1444  ll
+ 1445  cd crm
+ 1446  ll
+ 1447  clear
+ 1448  ll
+ 1449  clear
+ 1450  ll
+ 1451  git branch
+ 1452  cd ..
+ 1453  ll
+ 1454  cd communication-hub-ui
+ 1455  git branch
+ 1456  ll
+ 1457  pwd
+ 1458  ll
+ 1459  cat README.md
+ 1460  cd ~
+ 1461  clear
+ 1462  ll
+ 1463  cd GitTest
+ 1464  cd git-workspace
+ 1465  clear
+ 1466  ll
+ 1467  clear
+ 1468  ll
+ 1469  mkdir ClassSyllabus
+ 1470  cd ClassSyllabus
+ 1471  touch syllabus.txt
+ 1472  mkdir worksheet
+ 1473  ll
+ 1474  cd worksheet
+ 1475  cd ..
+ 1476  mv worksheet worksheets
+ 1477  cd worksheets
+ 1478  touch moral_science.txt
+ 1479  cd ..
+ 1480  git status
+ 1481  git ini
+ 1482  git init
+ 1483  ll
+ 1484  git status
+ 1485  git add .
+ 1486  ll
+ 1487  clear
+ 1488  ll
+ 1489  git status
+ 1490  git log
+ 1491  git commit -m "First commit"
+ 1492  git status
+ 1493  clear
+ 1494  git status
+ 1495  git log
+ 1496  clear
+ 1497  git commit -m "Commit #1"
+ 1498  ll
+ 1499  touch index.html
+ 1500  vi index.html
+ 1501  clear
+ 1502  ll
+ 1503  git status
+ 1504  git add index.html
+ 1505  git commit -m "First Commit"
+ 1506  git log
+ 1507  vi index.html
+ 1508  git satus
+ 1509  git status
+ 1510  clear
+ 1511  ll
+ 1512  git status
+ 1513  git add .
+ 1514  git commit -m "Second Commit"
+ 1515  clear
+ 1516  git checkout -b branch1
+ 1517  ll
+ 1518  git branch
+ 1519  ll
+ 1520  vi index.html
+ 1521  git status
+ 1522  git commit -m "br comm1"
+ 1523  git add index.html
+ 1524  git commit -m "br Branch1 commit #1"
+ 1525  ll
+ 1526  cat index.html
+ 1527  clear
+ 1528  ll
+ 1529  vi index.html
+ 1530  ll
+ 1531  git add .
+ 1532  git commit -m "br Branch1 Commit #2"
+ 1533  git status
+ 1534  clear
+ 1535  git log
+ 1536  git checkout master
+ 1537  git checkout branch1
+ 1538  ll
+ 1539  vi index.html
+ 1540  ll
+ 1541  git add .
+ 1542  git commit -m "br Branch1 Commit #3"
+ 1543  vi index.html
+ 1544  git add .
+ 1545  ll
+ 1546  git commit -m "br Branch1 Commit #4"
+ 1547  ll
+ 1548  git checkout HEAD~2
+ 1549  git checkout -b branch2
+ 1550  git checkout branch1
+ 1551  ll
+ 1552  cler
+ 1553  clear
+ 1554  ll
+ 1555  cd worksheets
+ 1556  ll
+ 1557  touch general_knowledge.txt
+ 1558  git status
+ 1559  git add .
+ 1560  git status
+ 1561  git add -u
+ 1562  git status
+ 1563  ll
+ 1564  vi moral_science.txt
+ 1565  vi general_knowledge.txt
+ 1566  git sat
+ 1567  git status
+ 1568  git add .
+ 1569  git commit -m "Commit about new files & modifications"
+ 1570  git status
+ 1571  clear
+ 1572  git status
+ 1573  clear
+ 1574  ll
+ 1575  cd ..
+ 1576  ll
+ 1577  git log
+ 1578  ll
+ 1579  pwd
+ 1580  ll
+ 1581  touch gitDiffCheck.txt
+ 1582  vi gitDiffCheck.txt
+ 1583  git add .
+ 1584  git commit -m "git diff checker commit"
+ 1585  vi gitDiffCheck.txt
+ 1586  git diff
+ 1587  git status
+ 1588  git add .
+ 1589  git diff
+ 1590  git diff cached
+ 1591  git diff --cached
+ 1592  vi gitDiffCheck.txt
+ 1593  git diff
+ 1594  git diff --cached
+ 1595  clear
+ 1596  ll
+ 1597  git status
+ 1598  git diff
+ 1599  git diff --cached
+ 1600  git diff HEAD gitDiffCheck.txt
+ 1601  clear
+ 1602  ll
+ 1603  git diff HEAD~3..HEAD
+ 1604  clear
+ 1605  ll
+ 1606  git status
+ 1607  git add .
+ 1608  git diff
+ 1609  ll
+ 1610  clear
+ 1611  ll
+ 1612  git diff gitDiffcheck.txt
+ 1613  git diff --cached
+ 1614  git commit -m "Second change to the new file"
+ 1615  git log
+ 1616  git log syllabus.txt
+ 1617  git log gitDiffCheck.txt
+ 1618  ll
+ 1619  git log index.html
+ 1620  git log --after="yesterday"
+ 1621  git shortlog
+ 1622  git shortlog -2
+ 1623  clear
+ 1624  ll
+ 1625  clear
+ 1626  git status
+ 1627  git ls-files
+ 1628  git ls-files --stage
+ 1629  git ls-files -s
+ 1630  git mv gitDiffCheck.txt diffcheck.txt
+ 1631  ls
+ 1632  git status
+ 1633  clear
+ 1634  ll
+ 1635  git status
+ 1636  git commit -m "rename file diff"
+ 1637  ll
+ 1638  git status
+ 1639  git log
+ 1640  ll
+ 1641  clear
+ 1642  ll
+ 1643  git ls-files -s
+ 1644  git rm --cached diffcheck.txt
+ 1645  ll
+ 1646  git status
+ 1647  git ls-files -s
+ 1648  git restore --staged diffcheck.txt
+ 1649  git status
+ 1650  ll
+ 1651  git ls-files -s
+ 1652  git rm diffcheck.txt
+ 1653  ll
+ 1654  git status
+ 1655  git commit -m "remove diffcheck.txt file"
+ 1656  git statu
+ 1657  git status
+ 1658  git log
+ 1659  clear
+ 1660  git log --oneline
+ 1661  ll
+ 1662  git log --oneline
+ 1663  git reset --hard 9f80164
+ 1664  git log --oneline
+ 1665  ll
+ 1666  git log --oneline
+ 1667  clear
+ 1668  ll
+ 1669  git log
+ 1670  vi new.log
+ 1671  git add .
+ 1672  git commit -m "First Commit on check reset File"
+ 1673  vi new.log
+ 1674  git add .
+ 1675  git commit -m "Second commit in oder to start"
+ 1676  git log --online
+ 1677  git log --oneline
+ 1678  git reset --soft bcfad30
+ 1679  git log --oneline
+ 1680  git status
+ 1681  git log
+ 1682  pwd
+ 1683  cd ..
+ 1684  ll
+ 1685  git clone https://github.com/facebook/react.git
+ 1686  ll
+ 1687  git clone --depth=10 https://github.com/facebook/react.git
+ 1688  ll
+ 1689  cd react
+ 1690  ll
+ 1691  branch
+ 1692  git branch
+ 1693  git log
+ 1694  git log --oneline | wc -l
+ 1695  git log -2
+ 1696  git log
+ 1697  git log -p
+ 1698  clear
+ 1699  ll
+ 1700  cat AUTHORS
+ 1701  cler
+ 1702  ll
+ 1703  clear
+ 1704  ll
+ 1705  git fetch --unshallow
+ 1706  ll
+ 1707  cd GitTest
+ 1708  ll
+ 1709  cd git-workspace
+ 1710  ll
+ 1711  cd react
+ 1712  ll
+ 1713  git log -1
+ 1714  ll
+ 1715  clear
+ 1716  ll
+ 1717  git log -1
+ 1718  git log -2
+ 1719  git log -3
+ 1720  git log --author=sebastian
+ 1721  clear
+ 1722  ll
+ 1723  git log -p
+ 1724  clear
+ 1725  ll
+ 1726  git log -stat
+ 1727  git log --stat
+ 1728  git log --oneline |wc -l
+ 1729  clear
+ 1730  git shortlog
+ 1731  git shortlog -sne
+ 1732  git show HEAD
+ 1733  git branch
+ 1734  git remote -v
+ 1735  git tags
+ 1736  git tag
+ 1737  clear
+ 1738  ll
+ 1739  git remote -v
+ 1740  git tag
+ 1741  clear
+ 1742  git tag
+ 1743  exit
+ 1744  clear
+ 1745  ll
+ 1746  cd ..
+ 1747  lll
+ 1748  ll
+ 1749  pwd
+ 1750  ll
+ 1751  clear
+ 1752  ll
+ 1753  cd ClassSyllabus
+ 1754  vi .git/config
+ 1755  git log --online
+ 1756  git log --oneline
+ 1757  git remote -v
+ 1758  clear
+ 1759  git remote -v
+ 1760  git remote add origin https://github.com/Loro32/ClassSyllabus.git
+ 1761  git remote -v
+ 1762  vi .git/config
+ 1763  git push -u origin master
+ 1764  ll
+ 1765  git status
+ 1766  ls
+ 1767  cd worksheets
+ 1768  ll
+ 1769  vi general_knowledge.txt
+ 1770  git add .
+ 1771  git commit -m "adding a line to general knoledge"
+ 1772  git log --oneline
+ 1773  clear
+ 1774  log
+ 1775  git log
+ 1776  git push origin master
+ 1777  git remote show origin
+ 1778  clear
+ 1779  ll
+ 1780  cd ..
+ 1781  ll
+ 1782  clear
+ 1783  history
+ 1784  git remote add origin_bitbucket https://loro@bitbucket.org/learningpaths/classsyllabus.git
+ 1785  git push origin_bitbucket master
+ 1786  ll
+ 1787  git pull
+ 1788  git push origin_bitbucket
+ 1789  git push origin_bitbucket master
+ 1790  git pull origin_bitbucket master
+ 1791  git push origin_bitbucket master
+ 1792  git status
+ 1793  git merge
+ 1794  clear
+ 1795  ll
+ 1796  git status
+ 1797  git branch
+ 1798  CLEAR
+ 1799  clear
+ 1800  ll
+ 1801  git log --oneline
+ 1802  git remote -v
+ 1803  git fecth
+ 1804  git fetch
+ 1805  git remote -v
+ 1806  git fetch origin_bitbucket
+ 1807  ll
+ 1808  git push origin_bitbucket master
+ 1809  git pull origin_bitbucket master
+ 1810  git pull origin
+ 1811  git pull origin_bitbucket
+ 1812  git checkout origin_bitbucket master
+ 1813  ll
+ 1814  git log
+ 1815  ll
+ 1816  git branch
+ 1817  git branch -r
+ 1818  git push
+ 1819  clear
+ 1820  ll
+ 1821  git log
+ 1822  git log --oneline 
+ 1823  pwd
+ 1824  git pull
+ 1825  git pull origin_bitbucket
+ 1826  git pull origin_bitbucket master
+ 1827  git push origin_bitbucket master
+ 1828  git merge origin/master
+ 1829  git merge origin_bitbucket/master
+ 1830  git pull origin master
+ 1831  git pull origin_bitbucket master
+ 1832  history
+ 1833  clear
+ 1834  ll
+ 1835  git push origin_bitbucket HEAD
+ 1836  git log --oneline
+ 1837  history
+ 1838  git reset 0c8edba
+ 1839  git log
+ 1840  clear
+ 1841  ll
+ 1842  vi index.html
+ 1843  git status
+ 1844  git add .
+ 1845  git  commit -m "prueba de push a dos repositorios "
+ 1846  git pull origin master
+ 1847  git pull origin_bitbucket master
+ 1848  clear
+ 1849  head
+ 1850  clear
+ 1851  ll
+ 1852  git status
+ 1853  git checkout origin_bitbucket master
+ 1854  clear
+ 1855  ll
+ 1856  cat .git/config
+ 1857  ll
+ 1858  clear
+ 1859  git status
+ 1860  git checkout origin_bitbucket/master
+ 1861  ll
+ 1862  ls /ltr
+ 1863  clear
+ 1864  ll
+ 1865  git branch
+ 1866  git checkout master
+ 1867  ll
+ 1868  git branch
+ 1869  git rev-list HEAD..origin
+ 1870  git rev-list
+ 1871  git rev-list HEAD..origin
+ 1872  git rev-list HEAD origin
+ 1873  clear
+ 1874  ll
+ 1875  git push origin_bitbucket master
+ 1876  git pull origin_bitbucket
+ 1877  git pull origin_bitbucket master
+ 1878  git pull https://bitbucket.org/learningpaths/classsyllabus.git
+ 1879  --allow-unrelated-histories
+ 1880  git --allow-unrelated-histories
+ 1881  clear
+ 1882  git --work-tree="." pull --allow-unrelated-histories
+ 1883  git push origin_bitbucket master
+ 1884  git pull origin_bitbucket master
+ 1885  git pull origin master --allow-unrelated-histories
+ 1886  git pull origin_bitbucket master --allow-unrelated-histories
+ 1887  git push origin_bitbucket master
+ 1888  clear
+ 1889  exit
+ 1890  ll
+ 1891  cd GitTest
+ 1892  ll
+ 1893  cd git-workspace
+ 1894  ll
+ 1895  cd ClassSyllabus
+ 1896  ll
+ 1897  git remote -v
+ 1898  clear
+ 1899  git remote -v
+ 1900  git fetch
+ 1901  git log
+ 1902  ll
+ 1903  vi diffcheck.txt
+ 1904  ll
+ 1905  git status
+ 1906  git add .
+ 1907  git commit -m "add a line fot both verisons "
+ 1908  git log
+ 1909  git push
+ 1910  git log
+ 1911  git push origin_bitbucket master
+ 1912  git log
+ 1913  clear
+ 1914  ll
+ 1915  git log --oneline
+ 1916  git remote -v
+ 1917  git fetch
+ 1918  git log
+ 1919  git fetch origin_bitbucket
+ 1920  ls .git/objects
+ 1921  ls .git/refs/heads
+ 1922  git branch
+ 1923  git branch -r
+ 1924  ls .git/refs/remotes
+ 1925  git log --oneline master..origin/master
+ 1926  git log --oneline master..origin_bitbucket/master
+ 1927  git log --oneline origin_bitbucket/master
+ 1928  clear
+ 1929  git merge origin/master
+ 1930  git merge origin_bitbucket/master
+ 1931  ll
+ 1932  vi syllabus.txt
+ 1933  git status
+ 1934  git add .
+ 1935  git commit -m "testing on sylabus"
+ 1936  git status
+ 1937  ll
+ 1938  git log
+ 1939  git push
+ 1940  git push origin_bitbucket master
+ 1941  clear
+ 1942  exit
+ 1943  ll
+ 1944  cd GitTest
+ 1945  ll
+ 1946  cd git-workspace
+ 1947  ll
+ 1948  git status
+ 1949  pwd
+ 1950  cd ClassSyllabus
+ 1951  ll
+ 1952  git status
+ 1953  ll
+ 1954  lll
+ 1955  ll
+ 1956  clear
+ 1957  ll
+ 1958  git status
+ 1959  ll
+ 1960  pwd
+ 1961  git config --global alias. lag "log --graph --oneline --all --decoreate"
+ 1962  git config --global alias.lag "log --graph --oneline --all --decoreate"
+ 1963  vi .git/config
+ 1964  ll
+ 1965  clear
+ 1966  ll
+ 1967  clear
+ 1968  vi ~/.gitconfig
+ 1969  git lag
+ 1970  vi ~/.gitconfig
+ 1971  git lag
+ 1972  ll
+ 1973  clear
+ 1974  ll
+ 1975  git lag
+ 1976  git status
+ 1977  ll
+ 1978  touch vizualizeBrach.txt
+ 1979  vi vizualizeBrach.txt
+ 1980  ll
+ 1981  git status
+ 1982  git add .
+ 1983  git commit -m "mcom1"
+ 1984  ll
+ 1985  vi vizualizeBrach.txt
+ 1986  git status
+ 1987  git add .
+ 1988  git status
+ 1989  git commit -m "mcom2"
+ 1990  git lag
+ 1991  git branch bigbranch
+ 1992  git lag
+ 1993  git checkout bigbranch
+ 1994  ls
+ 1995  l
+ 1996  pwd
+ 1997  git lag
+ 1998  vi vizualizeBrach.txt
+ 1999  git status
+ 2000  git add .
+ 2001  git commit -m "Bigcom1"
+ 2002  echo >> "" vizualizeBrach.txt 
+ 2003  echo >> "this is the second commit in big branch" vizualizeBrach.txt 
+ 2004  git add .
+ 2005  git commit -m "BigCom1"
+ 2006  git lag
+ 2007  git commit -m "BigCom2"
+ 2008  echo >> "Bcom 3 big branch" vizualizeBrach.txt 
+ 2009  git add .
+ 2010  git commit -m "BigCom3"
+ 2011  git lag
+ 2012  git checkout master
+ 2013  git lag
+ 2014  git status
+ 2015  clear
+ 2016  git status
+ 2017  git log
+ 2018  ll
+ 2019  touch FilemasterBranch.txt
+ 2020  vi FilemasterBranch.txt
+ 2021  ll
+ 2022  git lag
+ 2023  ll
+ 2024  git status
+ 2025  git add .
+ 2026  git commit -m "Mcom1"
+ 2027  git lag
+ 2028  echo "Mcom2 Maaster" >> FilemasterBranch.txt 
+ 2029  git add .
+ 2030  git commit -m "Mcom2"
+ 2031  echo "Mcom3 Maaster" >> FilemasterBranch.txt 
+ 2032  git add .
+ 2033  git commit -m "Mcom3"
+ 2034  git lag
+ 2035  git checkout -b SmallBranch 7ce4e3e
+ 2036  touch FileSmallBranch.txt
+ 2037  echo "this file represent the creation of the branch from the specific commit" >> FileSmallBranch.txt
+ 2038  ll
+ 2039  git add .
+ 2040  git commit -m "SBranch1"
+ 2041  git lag
+ 2042  clear
+ 2043  ll
+ 2044  git checkout master
+ 2045  git lag
+ 2046  git merge bigbranch
+ 2047  git lag
+ 2048  git merge SmallBranch
+ 2049  git lag
+ 2050  git push
+ 2051  git push REMOTE --all
+ 2052  git push origin --all
+ 2053  git push origin_bitbucket --all
+ 2054  git tag
+ 2055  git tag --list
+ 2056  git tag -a v1.0.1 -m "Version 1.0.1"
+ 2057  git lag
+ 2058  git push origin --all
+ 2059  git push origin_bitbucket --all
+ 2060  clear
+ 2061  ll
+ 2062  git lag
+ 2063  git push --tags origin
+ 2064  git push --tags origin_bitbucket
+ 2065  ll
+ 2066  history > FileCommands.txt
+ 2067  git branch -r
+ 2068  git branch 
+ 2069  git checkout -b RenamingBranchs_test
+ 2070  git push origin RenamingBranchs_test
+ 2071  git push origin_bitbucket RenamingBranchs_test
+ 2072  git branch -m Branch_test
+ 2073  clear
+ 2074  git branch
+ 2075  git branch -r
+ 2076  git checkout master
+ 2077  git branch -m Branch_test new_Branch_test
+ 2078  git branch
+ 2079  git push origin new_Branch_test
+ 2080  git push origin_bitbucket new_Branch_test
+ 2081  git push origin --delete RenamingBranchs_test
+ 2082  git push origin_bitbucket --delete RenamingBranchs_test
+ 2083  git lag
+ 2084  ll
+ 2085  clear
+ 2086  git branch
+ 2087  git branch -d new_Branch_test
+ 2088  git satatus
+ 2089  git lag
+ 2090  clear
+ 2091  git lag
+ 2092  git log --oneline
+ 2093  git pull
+ 2094  git pull origin
+ 2095  git pull origin_bitbucket
+ 2096  git pull origin_bitbucket master
+ 2097  git pull origin_bitbucket --all
+ 2098  git status
+ 2099  cat FileCommands.txt
+ 2100  git branch --no-merged
+ 2101  history
+ 2102  git branch --merged
